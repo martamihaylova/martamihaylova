@@ -4,19 +4,18 @@
 
 <h2 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h2>
 
-
 <a href="https://github.com/martamihaylova">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/marta.mihaylova.5/">
   <img align="left" alt="Marta's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
+<br><br />
 <br>
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
-<!-- <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" /> -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 **About Me!**
 
