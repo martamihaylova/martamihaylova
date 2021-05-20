@@ -20,10 +20,10 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
-- 🌱 I’m currently exploring React with a big interest. 
+- 👨🏽‍💻 I’m sudying Software Engineering at [https://softuni.bg](mailto:https://softuni.bg).
+- 🌱 I’m currently exploring ReactJS with a big interest. 
 - 🤔 My interests are web development and cool stuff :smiley:
-- 💼 I’m pursuing to become a Full-stack developer.
+- 💼 I’m pursuing to become a Full Stack Web Developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](mailto:martamihaylovajs@gmail.com).
 - ⚡ Fun fact: I am a bike-girl :relaxed:
