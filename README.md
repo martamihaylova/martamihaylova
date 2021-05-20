@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 title="hehehe"> Hey 👋, I'm **Marta**, a **Software Engineering student** 🚀 from Sofia, Bulgaria.</h3>
+<h3 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h3>
 
 <a href="https://github.com/martamihaylova">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
+
+
 
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
