@@ -30,8 +30,8 @@
 
 
 **Languages and Tools:**  
-<!-- 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=martamihaylova&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Marta's GitHub Stats" align="right" width="380" height="190"> --> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=martamihaylova&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Marta's GitHub Stats" align="right" width="380" height="190">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
