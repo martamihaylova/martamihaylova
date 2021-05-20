@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h3 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h3>
 
+
 <a href="https://github.com/martamihaylova">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -27,16 +28,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
-
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
-
-  <!-- Working GIF -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently sudying Software Engineering at SoftUni.
+- 👨🏽‍💻 I’m sudying Software Engineering with JavaScript at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
 - 🤔 My interests are web development and cool stuff xD
 - 💼 I’m pursuing to become a Full-stack developer.
