@@ -17,7 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
-
 **About Me!**
 
 - 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
