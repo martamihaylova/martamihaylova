@@ -26,7 +26,7 @@
 - 💼 I’m pursuing to become a Full Stack Web Developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](mailto:martamihaylovajs@gmail.com).
-- ⚡ Fun fact: I am a bike-girl :relaxed:
+- ⚡ Fun fact: I am a bike-girl :motorcycle: :relaxed:
 
 
 **Languages and Tools:**  
