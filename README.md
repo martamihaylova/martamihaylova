@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h3>
+<h1 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h1>
 
 
 <a href="https://github.com/martamihaylova">
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 I’m sudying Software Engineering with JavaScript at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
-- 🤔 My interests are web development and cool stuff xD
+- 🤔 My interests are web development and cool stuff :smiley:
 - 💼 I’m pursuing to become a Full-stack developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](mailto:martamihaylovajs@gmail.com).
-- ⚡ Fun fact: I am a bikegirl xD
+- ⚡ Fun fact: I am a bikegirl :relaxed:
 
 
 **Languages and Tools:**  
@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
