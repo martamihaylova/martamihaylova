@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
-*About Me!*
+****About Me!****
 
 - 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
