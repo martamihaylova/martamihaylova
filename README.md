@@ -20,7 +20,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m sudying Software Engineering at [https://softuni.bg](mailto:softuni.bg).
+- 👨🏽‍💻 I’m sudying Software Engineering at [softuni.bg](mailto:https://softuni.bg/).
 - 🌱 I’m currently exploring ReactJS with a big interest. 
 - 🤔 My interests are web development and cool stuff :smiley:
 - 💼 I’m pursuing to become a Full Stack Web Developer.
