@@ -14,7 +14,6 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
-<br />
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 **About Me!**
