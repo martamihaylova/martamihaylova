@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **martamihaylova/martamihaylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Username: 'Marta'
 ---
-title: ZamranxD
-date: 2020-02-10
-spoiler: Dynamic-realtime template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'ZamranxD'
----
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+<h3 title="hehehe"> Hey 👋, I'm **Marta**, a **Software Engineering student** 🚀 from Sofia, Bulgaria.</h3>
 
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,7 +28,6 @@ githubUsername: 'ZamranxD'
 <br />
 <br />
 
-Hi there, I'm **Marta**, a **Software Engineering student** 🚀 from Sofia, Bulgaria.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -48,6 +40,7 @@ Hi there, I'm **Marta**, a **Software Engineering student** 🚀 from Sofia, Bul
 - 💼 I’m pursuing to become a Full-stack developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](mailto:martamihaylovajs@gmail.com).
+- ⚡ Fun fact: I am a bikegirl xD
 
 
 **Languages and Tools:**  
