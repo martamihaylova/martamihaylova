@@ -31,7 +31,7 @@
 
 **Languages and Tools:**  
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=martamihaylova&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Marta's GitHub Stats" align="right" width="350" height="125">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
@@ -42,7 +42,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=martamihaylova&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Marta's GitHub Stats" align="right" width="300" height="150">
 
 ⭐️ From [Marta](https://github.com/martamihaylova)
