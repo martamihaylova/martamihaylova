@@ -16,10 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 **About Me!**
-
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 - 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
@@ -44,6 +43,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=martamihaylova&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Marta's GitHub Stats" width="400" height="200">
- -->
+<img src="https://github-readme-stats.vercel.app/api?username=martamihaylova&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Marta's GitHub Stats" align="right" width="300" height="150">
+
 ⭐️ From [Marta](https://github.com/martamihaylova)
