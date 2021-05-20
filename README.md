@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m sudying Software Engineering with JavaScript at SoftUni.
+- 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
 - 🤔 My interests are web development and cool stuff :smiley:
 - 💼 I’m pursuing to become a Full-stack developer.
