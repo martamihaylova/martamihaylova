@@ -1,16 +1,5 @@
 <!--
 **martamihaylova/martamihaylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h2 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h2>
@@ -28,9 +17,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
-
-****About Me!****
 
 - 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
@@ -39,7 +25,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](mailto:martamihaylovajs@gmail.com).
 - ⚡ Fun fact: I am a bike-girl :relaxed:
+- 
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
+**About Me!**
 
 **Languages and Tools:**  
 
