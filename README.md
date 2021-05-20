@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Username: 'Marta'
----
+
 <h3 title="hehehe"> Hey 👋, I'm **Marta**, a **Software Engineering student** 🚀 from Sofia, Bulgaria.</h3>
 
-<a href="https://www.linkedin.com/in/zamranxd/">
+<a href="https://github.com/martamihaylova">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
+<a href="https://www.facebook.com/marta.mihaylova.5/">
   <img align="left" alt="Marta's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
