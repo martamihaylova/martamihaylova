@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/marta.mihaylova.5/">
-  <img align="left" alt="Marta's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Marta's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
 
