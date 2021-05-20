@@ -11,13 +11,15 @@
 <a href="https://www.facebook.com/marta.mihaylova.5/">
   <img align="left" alt="Marta's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=martamihaylova&color=blueviolet">
 <br />
 <br />
+
 **About Me!**
+
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 - 👨🏽‍💻 I’m sudying Software Engineering at SoftUni.
 - 🌱 I’m currently exploring React with a big interest. 
@@ -26,8 +28,6 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](mailto:martamihaylovajs@gmail.com).
 - ⚡ Fun fact: I am a bike-girl :relaxed:
-
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="400" height="200" />
 
 
 **Languages and Tools:**  
