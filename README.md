@@ -2,7 +2,7 @@
 **martamihaylova/martamihaylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering student 🚀 from Sofia, Bulgaria.</h2>
+<h2 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering intern 🚀 from Sofia, Bulgaria.</h2>
 
 <a href="https://github.com/martamihaylova">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
