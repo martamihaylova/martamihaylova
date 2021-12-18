@@ -19,7 +19,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I sudyied Software Engineering at [SoftUni](https://about.softuni.bg/).
-- 🌱 I’m currently exploring ReactJS with a big interest. 
+- 🌱 I’m currently exploring ReactJS in greater depth. 
 - 🤔 My interests are web development and cool stuff :smiley:
 - 💼 I’m a Full Stack Web Developer with Node.js.
 - 💬 Ask me about anything, I love to answer!
