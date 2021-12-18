@@ -2,7 +2,7 @@
 **martamihaylova/martamihaylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 title="hehehe"> Hey 👋, I'm Marta, a Software Engineering intern 🚀 from Sofia, Bulgaria.</h2>
+<h2 title="hehehe"> Hey 👋, I'm Marta, a Software Engineer 🚀 from Sofia, Bulgaria.</h2>
 
 <a href="https://github.com/martamihaylova">
   <img align="left" alt="Marta's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,10 +18,10 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m sudying Software Engineering at [SoftUni](https://about.softuni.bg/).
+- 👨🏽‍💻 I sudyied Software Engineering at [SoftUni](https://about.softuni.bg/).
 - 🌱 I’m currently exploring ReactJS with a big interest. 
 - 🤔 My interests are web development and cool stuff :smiley:
-- 💼 I’m pursuing to become a Full Stack Web Developer.
+- 💼 I’m a Full Stack Web Developer with Node.js.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [martamihaylovajs@gmail.com](martamihaylovajs@gmail.com).
 - ⚡ Fun fact: I am a bike-girl <img height="25" src="https://user-images.githubusercontent.com/69864334/119053722-2381a580-b9cf-11eb-9bb5-b79122cba048.png"> :relaxed:
@@ -45,4 +45,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-⭐️ From [Marta](https://github.com/martamihaylova)
+
